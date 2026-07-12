@@ -1,5 +1,21 @@
 # 💫 About Me:
-an active ai ml learner and implementor , also skilled in Servicenow and salesforce clouds , good knowledge in dsa and problem solving , like talking about cloud computing and machine learning , interested in deep learning also developing skills in aws and azure <br>
+# Hi there 👋, I'm Utkarsh
+
+
+My interests lie in **Artificial Intelligence, Machine Learning, Cloud Computing, and Software Engineering**. I enjoy turning ideas into real-world industry relevant solutions while progressively working on my tech skills.
+
+### 🚀 What I'm working on
+
+* 🤖 AI & Machine Learning projects
+* 🧠 Deep Learning and Generative AI applications
+* ☁️ Expanding my expertise in **AWS** and **Microsoft Azure**
+* 💻 Strengthening my **Data Structures & Algorithms** and problem-solving skills
+* ⚙️ Building scalable applications using modern development practices
+* ☁️ My knwoledge of **Salesforce** and **ServiceNow**
+
+
+I enjoy collaborating on impactful projects, learning emerging technologies, and sharing knowledge with the developer community. I'm always looking for opportunities to build, learn, and contribute.
+ <br>
 
 
 ## 🌐 Socials:
